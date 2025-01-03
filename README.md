@@ -80,12 +80,6 @@ The main components of the code:
 - **`win1` & `win2` Functions**: Check if Player 1 or Player 2/Computer has won.
 - **`main` Function**: Handles game flow and user input.
 
-## Future Improvements
-- Enhance the AI using advanced strategies like the Minimax algorithm.
-- Add a graphical user interface (GUI).
-- Include better error handling and user feedback.
-- Provide an option to restart the game without exiting.
-
 ## License
 This project is open-source and available under the MIT License.
 
